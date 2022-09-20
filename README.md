@@ -31,4 +31,5 @@ Mi nombre es *__Julio__* y estoy en la 301
 </html>
 ```
 
-[Enlace a Wikipedia](https://es.wikipedia.org/ "Haciendo clic vas a la Wikipedia")
+[Enlace a Wikipedia](https://es.wikipedia.org/ "Haz clic para ir a Wikipedia")
+
