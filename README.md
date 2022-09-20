@@ -10,3 +10,6 @@ _Este texto aparece en cursiva_
 __Este texto aparece en negrita__
 
 mi nombre es *__Julio__* y estoy en la 301
+
+* lista desordenada
+
