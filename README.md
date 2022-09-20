@@ -35,8 +35,8 @@ Mi nombre es *__Julio__* y estoy en la 301
 
 ![Logo Wiki](https://github.com/Julio-Cesar-Carrillo/RepasoGithub/blob/main/logo.jpg "Titulo opcional")
 
-|Encabezado 1|Encabezado 2|Encabezado 3|
-|------------|:----------:|...........:|
-|Item 1|Boligrafos|20€|
-|Item 2|Grapadoras|1000€|
-|Item 3|Lapices|150€|
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ | :----------: | ...........: |
+| Item 1 | Boligrafos | 20€ |
+| Item 2 | Grapadoras | 1000€ |
+| Item 3 | Lapices | 150€ |
