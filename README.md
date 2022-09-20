@@ -9,7 +9,17 @@ _Este texto aparece en cursiva_
 **Este texto aparece en negrita**
 __Este texto aparece en negrita__
 
-mi nombre es *__Julio__* y estoy en la 301
+Mi nombre es *__Julio__* y estoy en la 301
 
-* lista desordenada
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
 
+* Primer elemento lista desordenada
+* Segundo elemento lista desordenada
+
+- Otra lista desordenada
+- Segundo elemento lista desordenada
+
++ Tercer elemento lista desordenada
++ segundo elemento
