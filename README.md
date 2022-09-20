@@ -37,6 +37,6 @@ Mi nombre es *__Julio__* y estoy en la 301
 
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
 | ------------ | :----------: | ...........: |
-| Item 1 | Boligrafos | 20€ |
-| Item 2 | Grapadoras | 1000€ |
-| Item 3 | Lapices | 150€ |
+| Item 1       | Boligrafos   | 20€          |
+| Item 2       | Grapadoras   | 1000€        |
+| Item 3       | Lapices      | 150€         |
